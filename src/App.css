@@ -7,6 +7,7 @@
 /*   animation: App-logo-spin infinite 20s linear; */
   height: 10vmin;
   pointer-events: none;
+  padding-top: 1em;
 }
 
 .App-header {
@@ -23,7 +24,12 @@
 .App-link {
   color: #61dafb;
 }
-
+.App-content{
+  min-height:60vh;
+}
+.App-footer{
+  max-height:10vh;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

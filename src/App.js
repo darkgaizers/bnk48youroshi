@@ -4,11 +4,12 @@ import './App.css';
 import MemberCardVersus from './components/MemberCardVersus'
 import MembersResult from './components/MembersResult'
 import 'antd/dist/antd.css';
-import { Row, Col } from 'antd';
+import {Button } from 'antd';
 import memberData from './mocks/memberData'
 import {GetVersusMembers,GetSortedMembersByPoint,
   AddPointToMember, GetPairedMembers,
-  MinusPointToMember} from './helpers/versusHelper'
+  } from './helpers/versusHelper'
+/* import AllMemberCard from './components/AllMemberCard' */
 /* console.log(memberData) */
 class App extends Component {
   constructor(props){
@@ -46,7 +47,7 @@ class App extends Component {
         this.setState({"resultFlag":true})
       } */
       let pairedMembers = GetPairedMembers()
-      let total_acceptable_round = this.state.memberData.total_member * 0.8
+      let total_acceptable_round = this.state.memberData.total_member * 1.5
       if(pairedMembers.length > total_acceptable_round){
 
         this.setState({"resultFlag":true})
@@ -68,25 +69,24 @@ class App extends Component {
           </p>
 
         </header>
-        <content>
-          <Row>
-
-          </Row>
+        <content className="App-content">
+{/*           <AllMemberCard members={this.state.memberData.members}/> */}
           {
             !this.state.resultFlag ?
             <MemberCardVersus members={this.GetMembers('paired')} onClick={this.onMemberVersusClick} />
             :
             <MembersResult members={this.GetMembers('result')}/>
           }
-          
+          <br/>
           <div>
-            <button onClick={this.onGetResultClick}>ขี้เกียจเล่นละกดตรงนี้</button>
+            <Button type="primary" onClick={this.onGetResultClick}>ขี้เกียจเล่นละกดตรงนี้</Button>
           </div>
+          <br/>
         </content>
-        <footer>
+        <footer className="App-footer">
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="mailto:darkgaizers@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >

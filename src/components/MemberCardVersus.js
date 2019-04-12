@@ -1,6 +1,6 @@
 import React from 'react';
 import MemberCard from './MemberCard';
-import { Row, Col } from 'antd';
+import { Row } from 'antd';
 const MemberCardVersus = ({ members, onClick }) => {
     return (
         <Row type="flex" justify="space-around">
@@ -15,24 +15,18 @@ const MemberCardVersus = ({ members, onClick }) => {
                     </Col>
                 })
             } */}
-            <Col span={10}
-                key={"member_" + members[0].nickname + "_" + members[0].generation}
-
-            >
                 <MemberCard
+                    key={"member_" + members[0].nickname + "_" + members[0].generation}
+
                     member={members[0]} onClick={(member)=>{
                         onClick([member,members[1]])
                     }} />
-            </Col>
-            <Col span={10}
+                <MemberCard
                 key={"member_" + members[1].nickname + "_" + members[1].generation}
 
-            >
-                <MemberCard
                     member={members[1]} onClick={(member)=>{
                         onClick([member,members[0]])
                     }} />
-            </Col>
         </Row>
 
     )

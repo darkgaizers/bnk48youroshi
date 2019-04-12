@@ -21,71 +21,31 @@
             "point" : 0
         },
         {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
-            "nickname" : "FAII",
-            "team" : "Trainee",
-            "position" : [],
-            "generation" : 2,
-            "point" : 0
-        },
-        {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
-            "nickname" : "CAKE",
-            "team" : "Trainee",
-            "position" : [],
-            "generation" : 2,
-            "point" : 0
-        },
-        {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
-            "nickname" : "KAEW",
-            "team" : "BIII",
-            "position" : [],
-            "generation" : 1,
-            "point" : 2
-        },
-        {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
-            "nickname" : "JIB",
-            "team" : "BIII",
-            "position" : [],
-            "generation" : 1,
-            "point" : 1
-        },
-        {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
-            "nickname" : "FOND",
-            "team" : "Trainee",
-            "position" : [],
-            "generation" : 2,
-            "point" : 0
-        },
-        {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
-            "nickname" : "MYYU",
-            "team" : "Trainee",
-            "position" : [],
-            "generation" : 2,
-            "point" : 0
-        },
-        {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
-            "nickname" : "MIORI",
+            "name" : "RINA IZUTA",
+            "nickname" : "IZURINA",
             "team" : "BIII",
             "position" : [],
             "generation" : 1,
             "point" : 0
         },
         {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
-            "nickname" : "NINK",
-            "team" : "Trainee",
+            "name" : "PUNSIKORN TIYAKORN",
+            "nickname" : "PUN",
+            "team" : "BIII",
             "position" : [],
             "generation" : 1,
             "point" : 0
         },
         {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "name" : "JENNIS OPRASERT",
+            "nickname" : "JENNIS",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "PATCHANAN JIAJIRACHOTE",
             "nickname" : "ORN",
             "team" : "BIII",
             "position" : [],
@@ -93,11 +53,377 @@
             "point" : 0
         },
         {
-            "name" : "PLEARNPICHAYA KOMALARAJUN",
-            "nickname" : "PUN",
+            "name" : "ISARAPA THAWATPAKDEE",
+            "nickname" : "TARWAAN",
             "team" : "BIII",
-            "position" : ["CAPTAIN OF BIII"],
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "SAWITCHAYA KAJONRUNGSILP",
+            "nickname" : "SATCHAN",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "JIRADAPA INTAJAK",
+            "nickname" : "PUPE",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "RINRADA INTHAISONG",
+            "nickname" : "PIAM",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "KANTEERA WADCHARATHADSANAKUL",
+            "nickname" : "NOEY",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "MANANYA KAOJU",
+            "nickname" : "NINK",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "PICHAYAPA NATHA",
+            "nickname" : "NAMSAI",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "MILIN DOKTHIAN",
+            "nickname" : "NAMNEUNG",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "PIMRAPAT PHADUNGWATANACHOK",
+            "nickname" : "MOBILE",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "MIORI OHKUBO",
+            "nickname" : "MIORI",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "PANISA SRILALOENG",
+            "nickname" : "MIND",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "VATHUSIRI PHUWAPUNYASIRI",
+            "nickname" : "KORN",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "KORAPAT NILPRAPA",
+            "nickname" : "KATE",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "WARATTAYA DEESOMLERT",
+            "nickname" : "KAIMOOK",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "NATRUJA CHUTIWANSOPON",
+            "nickname" : "KAEW",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "SUCHAYA SAENKHOT",
+            "nickname" : "JIB",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "NAPAPHAT WORRAPHUTTANON",
+            "nickname" : "JAA",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "KUNJIRANUT INTARASIN",
+            "nickname" : "JANE",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "WEERAYA ZHANG",
+            "nickname" : "WEE",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "KAMONTHIDA ROTTHAWINITHI",
+            "nickname" : "VIEW",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "TARISA PREECHATANGKIT",
+            "nickname" : "STANG",
+            "team" : "Trainee",
+            "position" : [],
             "generation" : 2,
+            "point" : 0
+        },
+        {
+            "name" : "RATAH CHINKRAJANGKIT",
+            "nickname" : "RATAH",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 2,
+            "point" : 0
+        },
+
+        {
+            "name" : "SIRIKARN SHINNAWATSUWAN",
+            "nickname" : "PHUKKHOM",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 2,
+            "point" : 0
+        },
+        {
+            "name" : "JIDARPHA CHAMCHOOY",
+            "nickname" : "PANDA",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 2,
+            "point" : 0
+        },
+        {
+            "name" : "PAKWAN NOIJAIBOON",
+            "nickname" : "PAKWAN",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "NATCHA KRISDHASIMA",
+            "nickname" : "OOM",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+
+
+        {
+            "name" : "PHATTHARANARIN MUEANRIT",
+            "nickname" : "NINE",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "ARINRAT YOLPRASONG",
+            "nickname" : "NIKY",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "CHANYAPUK NUMPRASOP",
+            "nickname" : "NEW",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "DUSITA KITISARAKULCHAI",
+            "nickname" : "NATHERINE",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "KHAWISARA SINGPLOD",
+            "nickname" : "MYYU",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "RACHAYA TUPKUNANON",
+            "nickname" : "MINMIN",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "NANNAPHAS LOETNAMCHOETSAKUN",
+            "nickname" : "MEWNICH",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "MAIRA KUYAMA",
+            "nickname" : "MAIRA",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "JUTHAMAS KHONTA",
+            "nickname" : "KHENG",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "MANIPA ROOPANYA",
+            "nickname" : "KHAMIN",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        }
+
+
+        ,
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "JUNÉ",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        }
+        ,
+        {
+            "name" : "NUTTAKUL PIMTONGCHAIKUL",
+            "nickname" : "GYGEE",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        }
+        ,
+        {
+            "name" : "NATTICHA CHANTARAVAREELEKHA",
+            "nickname" : "FOND",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        }
+        ,
+        {
+            "name" : "PAWEETHIDA SAKUNPIPHAT",
+            "nickname" : "FIFA",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        }
+        ,
+        {
+            "name" : "SUMITRA DUANGKAEW",
+            "nickname" : "FAII",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        }
+        ,
+        {
+            "name" : "PIMNIPA TUNGSAKUL",
+            "nickname" : "DEENEE",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        }
+        ,
+        {
+            "name" : "NAWAPORN CHANSUK",
+            "nickname" : "CAKE",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        }
+        ,
+        {
+            "name" : "JANISTA TANSIRI",
+            "nickname" : "BAMBOO",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        }
+        ,
+        {
+            "name" : "PUNYAWEE JUNGCHAROEN",
+            "nickname" : "AOM",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
             "point" : 0
         }
     ]
