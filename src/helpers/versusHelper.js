@@ -8,35 +8,50 @@ export const GetPairedMembers = ()=>{
     return pairedMembers
 }
 export const GetVersusMembers = members =>{
-    let pastMembers = members.filter((m)=>{
+/*     let pastMembers = members.filter((m)=>{
         return m.point > 0
     })
     let newMembers = members.filter((m)=>{
-        return m.point <= 0
-    })
+        return m.point <= 2
+    }) */
 
-    let pastTarget = pastMembers[Math.floor(Math.random() * pastMembers.length)]
+    /* let pastTarget = pastMembers[Math.floor(Math.random() * pastMembers.length)]
     let newTarget = newMembers[Math.floor(Math.random() * newMembers.length)]
-    let paired = pastTarget.nickname+pastTarget.generation + newTarget.nickname+newTarget.generation
-    let isItPaired = checkPairedMembers(paired)
+     */
+    let pastTarget = null
+    let newTarget = null
+    
+     let paired = ""
+    let isItPaired = 9999
     let cnt = 0
     if(isItPaired >= 0){
         
         do{
             console.log('already paired '+paired)
-            pastTarget = pastMembers[Math.floor(Math.random() * pastMembers.length)]
+            /* pastTarget = pastMembers[Math.floor(Math.random() * pastMembers.length)]
             newTarget = newMembers[Math.floor(Math.random() * newMembers.length)]
-            paired = pastTarget.nickname+pastTarget.generation + newTarget.nickname+newTarget.generation
-            isItPaired = checkPairedMembers(paired)
-            cnt++
+             */
+            pastTarget = members[Math.floor(Math.random() * members.length)]
+            newTarget = members[Math.floor(Math.random() * members.length)]
             console.log('new paired '+paired)
+            if(pastTarget.nickname === newTarget.nickname){
+                console.log("CAN'T FIGHT WITH YOURSELF!")
+                isItPaired = 9999
+            }else{
+                paired = pastTarget.nickname+pastTarget.generation + newTarget.nickname+newTarget.generation
+                isItPaired = checkPairedMembers(paired)
+                console.log("OK")
+            }
+            
+            cnt++
+
         }while(isItPaired >= 0 && cnt<20)
     }
 
 
     pairedMembers.push(paired)
-    pastTarget.used = true
-    newTarget.used = true
+    pastTarget.used++
+    newTarget.used++
     return [pastTarget,newTarget]
 }
 export const GetSortedMembersByPoint = members =>{
@@ -44,7 +59,7 @@ export const GetSortedMembersByPoint = members =>{
         return b.point - a.point
     })
 }
-export const AddPointToMember = (member,members)=>{
+export const AddPointToMember = (member,members,point)=>{
     let foundedIdx = members.findIndex(m=>{
         /* console.log(m.nickname+" "+member.nickname) */
         return m.nickname === member.nickname
@@ -52,14 +67,14 @@ export const AddPointToMember = (member,members)=>{
     
     if(foundedIdx >=0){
         let targetedMember = members[foundedIdx]
-        console.log(targetedMember.nickname+" score up from "+targetedMember.point+" to "+(targetedMember.point+1))
-        members[foundedIdx].point++
+        console.log(targetedMember.nickname+" score up from "+targetedMember.point+" to "+(targetedMember.point+point))
+        members[foundedIdx].point+=point
     }
 
     return members;
 
 }
-export const MinusPointToMember = (member,members)=>{
+export const MinusPointToMember = (member,members,point)=>{
     let foundedIdx = members.findIndex(m=>{
         /* console.log(m.nickname+" "+member.nickname) */
         return m.nickname === member.nickname
@@ -67,8 +82,8 @@ export const MinusPointToMember = (member,members)=>{
     
     if(foundedIdx >=0){
         let targetedMember = members[foundedIdx]
-        console.log(targetedMember.nickname+" score down from "+targetedMember.point+" to "+(targetedMember.point-1))
-        members[foundedIdx].point--
+        console.log(targetedMember.nickname+" score down from "+targetedMember.point+" to "+(targetedMember.point-point))
+        members[foundedIdx].point-=point
     }
 
     return members;

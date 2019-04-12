@@ -34,8 +34,13 @@ class App extends Component {
     let member = members[0]
     let competitor = members[1]
     let newMemberData = Object.assign({},this.state.memberData)
-    newMemberData.members = AddPointToMember(member,newMemberData.members)
-    newMemberData.members = MinusPointToMember(competitor,newMemberData.members)
+    let point = 1
+    if(member.point >1 && competitor.point >1){
+      console.log("Clash of the titan! +2")
+      point = 2
+    }
+    newMemberData.members = AddPointToMember(member,newMemberData.members,point)
+    //newMemberData.members = MinusPointToMember(competitor,newMemberData.members)
     this.setState({memberData:newMemberData},()=>{
       /* if(CheckUnusedMembers(newMemberData.members) <= 0){
         this.setState({"resultFlag":true})
