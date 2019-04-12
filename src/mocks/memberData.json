@@ -1,0 +1,104 @@
+{
+    "band" : "BNK48",
+    "group" : "48 Group",
+    "total_member" : 51,
+    "website" : "https://bnk48.com",
+    "members" : [
+        {
+            "name" : "CHERPRANG AREEKUL",
+            "nickname" : "CHERPRANG",
+            "team" : "BIII",
+            "position" : ["CAPTAIN OF BNK48"],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "PRAEWA SUTHAMPHONG",
+            "nickname" : "MUSIC",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "FAII",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 2,
+            "point" : 0
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "CAKE",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 2,
+            "point" : 0
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "KAEW",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 2
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "JIB",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 1
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "FOND",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 2,
+            "point" : 0
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "MYYU",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 2,
+            "point" : 0
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "MIORI",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "NINK",
+            "team" : "Trainee",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "ORN",
+            "team" : "BIII",
+            "position" : [],
+            "generation" : 1,
+            "point" : 0
+        },
+        {
+            "name" : "PLEARNPICHAYA KOMALARAJUN",
+            "nickname" : "PUN",
+            "team" : "BIII",
+            "position" : ["CAPTAIN OF BIII"],
+            "generation" : 2,
+            "point" : 0
+        }
+    ]
+}
