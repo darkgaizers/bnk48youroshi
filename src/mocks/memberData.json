@@ -79,7 +79,7 @@
         {
             "name" : "RINRADA INTHAISONG",
             "nickname" : "PIAM",
-            "team" : "BIII",
+            "team" : "Trainee",
             "position" : [],
             "generation" : 1,
             "point" : 0
@@ -95,7 +95,7 @@
         {
             "name" : "MANANYA KAOJU",
             "nickname" : "NINK",
-            "team" : "BIII",
+            "team" : "Trainee",
             "position" : [],
             "generation" : 1,
             "point" : 0
@@ -201,7 +201,7 @@
             "nickname" : "WEE",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -209,7 +209,7 @@
             "nickname" : "VIEW",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -250,7 +250,7 @@
             "nickname" : "PAKWAN",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -258,7 +258,7 @@
             "nickname" : "OOM",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
 
@@ -268,7 +268,7 @@
             "nickname" : "NINE",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -276,7 +276,7 @@
             "nickname" : "NIKY",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -284,7 +284,7 @@
             "nickname" : "NEW",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -292,7 +292,7 @@
             "nickname" : "NATHERINE",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -300,7 +300,7 @@
             "nickname" : "MYYU",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -308,7 +308,7 @@
             "nickname" : "MINMIN",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -316,7 +316,7 @@
             "nickname" : "MEWNICH",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -324,7 +324,7 @@
             "nickname" : "MAIRA",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -332,7 +332,7 @@
             "nickname" : "KHENG",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         },
         {
@@ -340,7 +340,7 @@
             "nickname" : "KHAMIN",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
 
@@ -351,7 +351,7 @@
             "nickname" : "JUNÉ",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
         ,
@@ -360,7 +360,7 @@
             "nickname" : "GYGEE",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
         ,
@@ -369,7 +369,7 @@
             "nickname" : "FOND",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
         ,
@@ -378,7 +378,7 @@
             "nickname" : "FIFA",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
         ,
@@ -387,7 +387,7 @@
             "nickname" : "FAII",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
         ,
@@ -396,7 +396,7 @@
             "nickname" : "DEENEE",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
         ,
@@ -405,7 +405,7 @@
             "nickname" : "CAKE",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
         ,
@@ -414,7 +414,7 @@
             "nickname" : "BAMBOO",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
         ,
@@ -423,7 +423,7 @@
             "nickname" : "AOM",
             "team" : "Trainee",
             "position" : [],
-            "generation" : 1,
+            "generation" : 2,
             "point" : 0
         }
     ]
